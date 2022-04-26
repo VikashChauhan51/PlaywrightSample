@@ -1,0 +1,11 @@
+﻿global using Microsoft.Playwright;
+global using Microsoft.Playwright.NUnit;
+global using NUnit;
+global using NUnit.Framework;
+global using FluentAssertions;
+global using NLog;
+global using System;
+global using System.Linq;
+global using System.Threading.Tasks;
+global using System.IO;
+global using PlaywrightSample.Pages;
