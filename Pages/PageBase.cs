@@ -1,4 +1,4 @@
-﻿
+﻿using NLog;
 namespace PlaywrightSample.Pages;
 
 public abstract class PageBase: IDisposable, IAsyncDisposable
