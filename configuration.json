@@ -1,3 +1,18 @@
 {
 
+  "browserContextOptions": {
+    "acceptDownloads": true,
+    "baseURL": "https://bing.com",
+    "bypassCSP": false,
+    "colorScheme": "light",
+    "isMobile": false,
+    "javaScriptEnabled": false,
+    "locale": "en-IN",
+    "offline": false,
+    "recordVideoDir": "Videos"
+  },
+  "browser": {
+    "name": "chromium",
+    "headed": "0"
+  }
 }
